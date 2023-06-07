@@ -1,0 +1,19 @@
+# https://www.aftvnews.com/how-to-block-software-updates-on-the-amazon-fire-tv-or-fire-tv-stick/#router
+# REQUIRED: 
+0.0.0.0 d1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 amzdigital-a.akamaihd.net
+0.0.0.0 amzdigitaldownloads.edgesuite.net
+# OPTIONAL: 
+0.0.0.0 softwareupdates.amazon.com
+0.0.0.0 updates.amazon.com
+
+# https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+# updates
+0.0.0.0 softwareupdates.amazon.com
+0.0.0.0 d3h5bk8iotgjvw.cloudfront.net
+0.0.0.0 d63r8xi1zu867.cloudfront.net
+0.0.0.0 d1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 d3a510xmpll7o6.cloudfront.net
+0.0.0.0 d21m0ezw6fosyw.cloudfront.net
+0.0.0.0 d3uf8d0lloeluq.cloudfront.net
+0.0.0.0 d2n99fpfeqbnhk.cloudfront.net
