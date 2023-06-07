@@ -1,2 +1,3 @@
+# https://toengel.net/philipsblog/2020/02/24/howto-anleitung-automatische-philips-tv-firmware-updates-verhindern/
 0.0.0.0 authorize.nettvservices.com
 0.0.0.0 firmware.nettvservices.com
