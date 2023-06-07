@@ -1,2 +1,2 @@
-authorize.nettvservices.com
-firmware.nettvservices.com
+0.0.0.0 authorize.nettvservices.com
+0.0.0.0 firmware.nettvservices.com
