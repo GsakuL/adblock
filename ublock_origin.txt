@@ -1,0 +1,2 @@
+makeitmeme.com##*[class*="_adContainer_"]
+makeitmeme.com##*[class*="_removeAdsButton_"]
